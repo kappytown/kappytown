@@ -53,5 +53,5 @@ I'm a developer who believes that high-performance code and intuitive user exper
 ---
 
 ### 📊 GitHub Stats
-![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappytown&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kappytown&layout=compact&theme=nord)
+- [Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappytown&show_icons=true&theme=nord)
+- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kappytown&layout=compact&theme=nord)
